@@ -1,1 +1,1 @@
-Mover Archivo
+Eliminar Archivo
