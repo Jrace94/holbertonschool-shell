@@ -1,1 +1,1 @@
-Creando directorio en tmp
+Impresion que crea un directorio en tmp
