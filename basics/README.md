@@ -1,1 +1,1 @@
-Eliminar Archivo
+Eliminar Directorio
