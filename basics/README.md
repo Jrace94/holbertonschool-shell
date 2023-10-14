@@ -1,1 +1,1 @@
-Impresion de la lista de contenidos de su directorio actual
+Impresion al directorio de inicio del usuario
