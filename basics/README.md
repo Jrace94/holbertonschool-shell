@@ -1,1 +1,1 @@
-Impresion del contenido del directorio actual
+Impresion del contenido, incluso lo oculto, del directorio actual
