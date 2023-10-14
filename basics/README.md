@@ -1,1 +1,1 @@
-Impresion numerica de grupos
+Impresion que crea un directorio en tmp
