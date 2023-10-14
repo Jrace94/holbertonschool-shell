@@ -1,1 +1,1 @@
-Eliminar Directorio
+Volver al directorio anterior desde la fuente
