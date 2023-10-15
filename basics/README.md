@@ -1,1 +1,1 @@
-Mover archivos
+Eliminar archivos que terminan con ~
