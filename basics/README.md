@@ -1,1 +1,1 @@
-Listar Archivos
+Imprimir el tipo de archivo iamafile
