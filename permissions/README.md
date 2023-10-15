@@ -1,1 +1,1 @@
-Imprimiendo el username actual
+Imprimiendo los grupos del usuario actual
