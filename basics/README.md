@@ -1,1 +1,1 @@
-Imprimir el tipo de archivo iamafile
+Enlace simbolico
