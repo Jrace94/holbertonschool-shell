@@ -1,1 +1,1 @@
-Creando el usuario betty
+Imprimiendo el username actual
