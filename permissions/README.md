@@ -1,1 +1,1 @@
-Agregando permiso x
+Permisos solo para otros
