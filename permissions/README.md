@@ -1,1 +1,1 @@
-Permisos solo para otros
+Configirando permisos
