@@ -1,1 +1,1 @@
-Agregando permisos
+Agregando permiso x
