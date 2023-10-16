@@ -1,1 +1,1 @@
-Imprimiendo los grupos del usuario actual
+Registrando archivo hello en el usuario betty
