@@ -1,1 +1,1 @@
-Registrando archivo hello en el usuario betty
+Creando un archivo vacio
